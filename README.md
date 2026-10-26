@@ -62,3 +62,125 @@ https://surahquran.com
 https://voz.vn 
 https://xbanxia.com 
 
+
+- name: aniwatchtv
+  host: aniwatchtv.to
+  url: https://aniwatchtv.to
+  sub_urls:
+  - https://aniwatchtv.to
+- name: arnebrachhold
+  host: arnebrachhold.de
+  url: https://arnebrachhold.de
+  sub_urls:
+  - https://arnebrachhold.de
+- name: aryion
+  host: aryion.com
+  url: https://aryion.com
+  sub_urls:
+  - https://aryion.com
+- name: earnbitmoon
+  host: earnbitmoon.club
+  url: https://earnbitmoon.club
+  sub_urls:
+  - https://earnbitmoon.club
+- name: freetype
+  host: freetype.org
+  url: https://freetype.org
+  sub_urls:
+  - https://freetype.org
+- name: hdhub4u
+  host: hdhub4u.mov
+  url: https://hdhub4u.mov
+  sub_urls:
+  - https://hdhub4u.mov
+- name: ifconfig
+  host: ifconfig.io
+  url: https://ifconfig.io
+  sub_urls:
+  - https://ifconfig.io
+- name: insightfulreads
+  host: insightfulreads.net
+  url: https://insightfulreads.net
+  sub_urls:
+  - https://insightfulreads.net
+- name: jtsblog
+  host: jts-blog.com
+  url: https://jts-blog.com
+  sub_urls:
+  - https://jts-blog.com
+- name: lfrii
+  host: l-frii.com
+  url: https://l-frii.com
+  sub_urls:
+  - https://l-frii.com
+- name: life3dblog
+  host: life3dblog.com
+  url: https://life3dblog.com
+  sub_urls:
+  - https://life3dblog.com
+- name: mangapark
+  host: mangapark.net
+  url: https://mangapark.net
+  sub_urls:
+  - https://mangapark.net
+- name: mangareader
+  host: mangareader.to
+  url: https://mangareader.to
+  sub_urls:
+  - https://mangareader.to
+- name: manhuaus
+  host: manhuaus.com
+  url: https://manhuaus.com
+  sub_urls:
+  - https://manhuaus.com
+- name: myupchar
+  host: myupchar.com
+  url: https://myupchar.com
+  sub_urls:
+  - https://myupchar.com
+- name: nakheelteam
+  host: nakheelteam.cc
+  url: https://nakheelteam.cc
+  sub_urls:
+  - https://nakheelteam.cc
+- name: onlar
+  host: onlar.az
+  url: https://onlar.az
+  sub_urls:
+  - https://onlar.az
+- name: pdfdrive
+  host: pdfdrive.com
+  url: https://pdfdrive.com
+  sub_urls:
+  - https://pdfdrive.com
+- name: prodevreal
+  host: prodevreal.com
+  url: https://prodevreal.com
+  sub_urls:
+  - https://prodevreal.com
+- name: sflix
+  host: sflix.to
+  url: https://sflix.to
+  sub_urls:
+  - https://sflix.to
+- name: suksesbogil
+  host: suksesbogil.com
+  url: https://suksesbogil.com
+  sub_urls:
+  - https://suksesbogil.com
+- name: surahquran
+  host: surahquran.com
+  url: https://surahquran.com
+  sub_urls:
+  - https://surahquran.com
+- name: voz
+  host: voz.vn
+  url: https://voz.vn
+  sub_urls:
+  - https://voz.vn
+- name: xbanxia
+  host: xbanxia.com
+  url: https://xbanxia.com
+  sub_urls:
+  - https://xbanxia.com
+
