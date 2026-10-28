@@ -63,6 +63,8 @@ https://voz.vn
 https://xbanxia.com 
 
 
+'https://kisskh.co','https://baskadia.com','https://123moviesfree.net','https://leovegasse2.com','https://uakino.club','https://rawkuma.com','https://cruxnow.com','https://komikindo.tv','https://transmissionbt.com','https://examiner.com','https://castingcall.club','https://myupchar.com','https://surahquran.com','https://l-frii.com','https://xbanxia.com'
+
 - name: aniwatchtv
   host: aniwatchtv.to
   url: https://aniwatchtv.to
