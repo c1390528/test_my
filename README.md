@@ -186,3 +186,13 @@ https://xbanxia.com
   sub_urls:
   - https://xbanxia.com
 
+
+    var reason = r['失败原因'] || '';
+    if(r['拨测失败']){
+        var failCell = '<span class="text-red-600 font-medium">失败</span><br/><span class="text-xs text-red-500">('+reason+')';
+    } else if(reason){
+        var failCell = '<span class="text-amber-600 font-medium">异常</span><br/><span class="text-xs text-amber-500">('+reason+')';
+    } else {
+        var failCell = '<span class="text-green-600 font-medium">正常</span>';
+    }
+    
